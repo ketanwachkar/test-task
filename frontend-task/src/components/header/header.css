@@ -1,0 +1,41 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    background: #007AFF;
+    align-items: center;
+    padding: 0 0.5rem;
+
+}
+label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+select {
+    height: 32px;
+}
+.profile-pic{
+    background: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Inventory-label {
+    font-size: 500;
+    font-size: 28px;
+    color: #fff;
+}
+.header-label {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.header-home-label {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+}

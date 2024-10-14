@@ -1,0 +1,17 @@
+.label-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+.Save-change-button {
+    background: var(--Miscellaneous-Floating-Tab---Text-Selected, #007AFF);
+    padding: 12px 65px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 1rem;
+    cursor: pointer;
+}
